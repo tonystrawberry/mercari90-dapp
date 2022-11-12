@@ -16,6 +16,7 @@ Notion (https://dirt-juniper-92e.notion.site/Backend-Knowledge-Sharing-09bbdddb6
 
 - 🖥 Include a web client page built with HTML/CSS/Javascript for a basic interface
 - 💾 Use <a href="https://web3js.readthedocs.io/en/v1.8.1/#">web3.js</a> libraries to interact with a local ethereum node (run by <a href="https://trufflesuite.com/ganache/" target="_blank">Ganache</a> locally on `http://127.0.0.1:7545`)
+- 📇 Smart contracts build with Solidity 0.4.18
 
 ## 🚀 Local development
 
