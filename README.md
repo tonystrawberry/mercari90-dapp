@@ -9,6 +9,9 @@
   Mercari90 - 90年代メルカリ
 </h1>
 
+## 📚 Resources
+Notion (https://dirt-juniper-92e.notion.site/Backend-Knowledge-Sharing-09bbdddb6e7744a69d973ee1268331c7)
+
 ## 👨🏻‍🔬 Demo application of a minimalist sell-and-buy application using the Blockchain technology
 
 - 🖥 Include a web client page built with HTML/CSS/Javascript for a basic interface
